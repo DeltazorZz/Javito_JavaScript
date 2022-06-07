@@ -1,0 +1,39 @@
+{
+    "filmek":[
+        {
+            "filmcim":"A remény rabjai", 
+            "plakat":"kepek/remenyrabjai.jpg",
+            "kiadas":"Kiadás: 1994",
+            "ismerteto":"Az 1940-es évek végén Andy Dufresne bankárt életfogytig tartó börtönbüntetésre ítélik kettős gyilkosságért. A férfi ugyan ártatlan, ám az ítélet értelmében be kell vonulnia a Shawshank bötrön rabjai közé. Ezzel gyökeresen megváltozik Andy élete, lassan válik az elítéltek körében megbecsültté, a fegyőrök adótanácsadóvá és a börtön vezéregyéniségévé."
+
+        },
+        {
+            "filmcim":"Halálsoron", 
+            "plakat":"kepek/halalsoron.jpg",
+            "kiadas":"Kiadás: 1999",
+            "ismerteto":"Louisiana a negyvenes években. Egy halálraítélteket fogva tartó börtönben, ahol a szelíd természetű Paul Edgecomb főfegyőr beosztottjai viszonylag jó hangulatban vigyáznak az elítéltekre. Fegyőrök és elítéltek kölcsönösen tisztelik egymást. Egy Percy nevű szadista őr ugyan kilóg a sorból, de egy rágcsálónak köszönhetően újra helyreáll az őrök és elítéltek nyugalma - egerek és emberek közt nem lehet nézeteltérés."
+
+        },
+        {
+            "filmcim":"Forrest Gump", 
+            "plakat":"kepek/forestgump.jpg",
+            "kiadas":"Kiadás: 1994",
+            "ismerteto":"A kisfiú intelligenciahányadosa némi kívánnivalót hagy maga után, de a gyerek hihetetlen teljesítményekre képes. Először elismert futballista lesz, majd bevonul katonának, és Vietnamból hazatérve maga Nixon elnök tünteti ki."
+
+        },
+        {
+            "filmcim":"Életrevalók", 
+            "plakat":"kepek/eletrevalok.jpg",
+            "kiadas":"Kiadás:",
+            "ismerteto":"Philippe, a gazdag arisztokrata ejtőernyős balesete miatt nyaktól lefelé teljesen lebénul, tolószékbe kényszerül. Egy segítő asszisztensre van szüksége a mindennapi teendőiben. Választása egy börtönből most szabadult külvárosi fekete srácra, Driss-re esik, aki humorával és rámenősségével mindenkit elbűvöl maga körül. A ház Vivaldi és Earth Wind and Fire zenéjétől hangos. A két univerzum találkozása egy barátság kezdete..."
+
+        },
+        {
+            "filmcim":"Vuk", 
+            "plakat":"kepek/vuk.jpg",
+            "kiadas":"Kiadás: 1981",
+            "ismerteto":"A rókacsaládban \"gyermekáldás\" van. Mind életrevaló, de egy különösen csintalan. A szülők úgy vélik, nagyapjára ütött és ezért a Vuk nevet adják neki. Amikor árván marad, nagybátyja, a híres Karak veszi pártfogásába. Befogadja barlangjába és vadászni tanítja. Vuk ügyes tanítványnak bizonyul, és Karak legnagyobb örömére ügyes, bátor rókává fejlődik. Okosságát bizonyítja akkor is, amikor a rókalányt kiszabadítja a vadász fogságából. Egy hajtóvadászat során Karak feláldozza életét a fiatalok megmentéséért. Vuk és Iny családot alapítanak, majd sok borsot törtek a vadász és kutyái orra alá."
+
+        }
+    ]
+}
